@@ -10,3 +10,8 @@ git checkout -b 分支名
 git remote add origin 远程仓库网址
 6. 推送文件到远程数据库
 git push -u origin 分支名
+
+
+1111
+1.1 克隆远程数据库到本地
+git clone 远程数据库地址

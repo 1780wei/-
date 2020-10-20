@@ -1,12 +1,12 @@
-1.
+1.初始化本地储存库
 git init
-2.
+2提交所有文件到暂存区
 git add .
-3.
+3.将暂存区的文件提交到本地储存库
 git commit -m 提交备注
-4.
+4.创建分支并进入分支
 git checkout -b 分支名
-5. 
+5. 与远程仓库建立联系
 git remote add origin 远程仓库网址
-6. 
+6. 推送文件到远程数据库
 git push -u origin 分支名

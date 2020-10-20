@@ -1,0 +1,12 @@
+1.
+git init
+2.
+git add .
+3.
+git commit -m 提交备注
+4.
+git checkout -b 分支名
+5. 
+git remote add origin 远程仓库网址
+6. 
+git push -u origin 分支名
